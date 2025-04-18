@@ -1421,3 +1421,18 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Support
 
 For support, please open an issue in the GitHub repository or contact the development team.
+
+
+Application Screenshot![1744961195648](https://github.com/user-attachments/assets/cbbc92c3-eced-424f-9b22-75a4e7547f77)
+s![1744961195655](https://github.com/user-attachments/assets/4![1744961195681](https://github.com/user-attachments/assets/17e08761-dd32-4a1d-bbf3-a68c8423d7d0)
+![1744961195675](https://github.com/user-attachments/assets/4537e3c7-3f8![1744961195687](https://github.com/user-attachments/assets/fe1ecdc9-9eb7-4d7d-8efb-bdeaa09f64be)
+2-4a99-a150-facb133fb58e)
+![1744961195669](https://github.com/user-attachments/assets/d49214a1-c898-432a-aa93-448bbf1a849b)
+037145d-bbfe-4e97-b135-bce188aaf671)
+![1744961195663](https://github.com/user-attachments/assets/3b224e4b-14af-4c28-995a-3cb43ebc83bd)
+![1744961195704](https://github.com/user-attachments/assets/26440672-cde0-4725-89c6-a9f0ce6a64c6)
+![1744961195698](https://github.com/user-attachments/assets/bf3d9e61-4095-4ac7-a5e5-203878b76c20)
+![1744961195692](https://github.com/user-attachments/assets/1a4de55d-3f70-4f9f-9cbb-1cd0be3512a1)
+
+
+
